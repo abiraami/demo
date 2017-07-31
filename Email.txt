@@ -1,4 +1,0 @@
-send email to clients
-adding "cc" and "bcc"
-email on master
-adding more content

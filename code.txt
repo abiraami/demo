@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>PHP</title>
+   
 </head>
 <body>
 #phpcode
@@ -46,6 +46,7 @@
     } else {
         $color = $_POST['color'];
     }
+#comment
     if (!isset($_POST['languages']) || !is_array($_POST['languages'])
           || count($_POST['languages']) === 0) {
         $ok = false;
