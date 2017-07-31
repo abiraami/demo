@@ -4,6 +4,7 @@
     <title>PHP</title>
 </head>
 <body>
+#phpcode
 <?php
   $name = '';
   $password = '';
@@ -88,7 +89,7 @@
                 echo ' checked';
             }
         ?>>male<br>
-    Favorite color:
+   
         <select name="color">
             <option value="">Please select</option>
             <option value="#f00"<?php
